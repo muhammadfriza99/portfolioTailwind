@@ -1,0 +1,14 @@
+{
+  "name": "webporthopoliotailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devTailwind": "npx tailwindcss -i ./style/input.css -o ./style/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
